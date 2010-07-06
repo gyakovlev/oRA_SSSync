@@ -1,0 +1,5 @@
+## Title: |c939482c9oRA_SSSync|r
+## Author: Affli @ RU-Howling Fjord
+## Notes: Sends your SoulStone cooldown to oRA2 & oRA3 users
+## Interface: 30300
+oRA_SSSync.lua
